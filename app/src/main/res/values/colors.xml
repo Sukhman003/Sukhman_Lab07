@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue">#E3F2FD</color>  <!-- Add your defined color here -->
+    <color name="holo_blue_dark">#FF6200EE</color>
+
+
+        <color name="black">#FF000000</color>
+        <color name="white">#FFFFFFFF</color>
+
+</resources>
